@@ -298,5 +298,7 @@ sidebar:
     image: http://placehold.it/350x250
     image_alt: "image"
     text: "Some text here."
+    values:
+        author_profile: true
   - title: "Another Title"
     text: "More text here."
