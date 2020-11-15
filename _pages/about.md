@@ -7,3 +7,6 @@ header:
 ---
 
 I'm a data scientist.
+
+**Favourite Quote:**
+*'Don't pursue happiness, pursue a lifestyle whose byproduct is happiness - Dandapani'*
