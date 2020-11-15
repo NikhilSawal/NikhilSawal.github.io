@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "LinkedIn"
-      icon: "<i class="fab fa-linkedin"></i>"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/nikhil-sawal/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
