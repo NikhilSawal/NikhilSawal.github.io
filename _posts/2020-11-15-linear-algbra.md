@@ -6,8 +6,8 @@ header:
 excerpt: "Coding practice - Gilbert Strang (MIT OpenCourseWare)"
 ---
 
-# Linear Algebra
+# [Linear Algebra](https://github.com/NikhilSawal/linear_algebra)
 
 The idea behind this repository is 2-fold:
 1. Learn the concepts of linear algebra.
-2. Code them in Python 
+2. Code them in Python
