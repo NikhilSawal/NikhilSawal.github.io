@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: ["About"](https://nikhilsawal.github.io)
+title: "About"
 permalink: /about/
 author_profile: true
 header:
 ---
 
-Hi my name is Nikhil and I'm a data scientist. I have majored in Industrial Engineering, Statistic from Arizona State University, Tempe, AZ.
+Hi my name is Nikhil and I'm a data scientist. I have majored in Industrial Engineering, Statistic from Arizona State University, Tempe, AZ. While <a href="https://github.com/NikhilSawal/investment_portfolio" target="_blank">Hello, world!</a>
 
 # My Story
 
