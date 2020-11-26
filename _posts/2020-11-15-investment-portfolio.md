@@ -22,7 +22,6 @@ I have scheduled the script to scrape the opening and closing value of the index
 I have also setup a slack bot that would send notifications to my Slack channel after the execution of the script.
 
 > Current Technologies: Python, Scrapy, Slack (for notification), Cronjob
-
 > Future Technologies: PostgreSQL (potential data storage), Jenkins, Docker
 
 <a href="https://github.com/NikhilSawal/investment_portfolio" target="_blank">Github link to project</a>
