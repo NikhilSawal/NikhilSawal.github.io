@@ -6,8 +6,6 @@ header:
 excerpt: "End-to-end project for real-time stock price predictions."
 ---
 
-# [Investment Portfolio](https://github.com/NikhilSawal/investment_portfolio)
-
 This is an end-to-end data science project, which is my attempt to learn different technologies and concepts involved in productionizing an ML concept. It tries to cover the following 4 aspect of a Data science project:
 
 1. Web scraping data from internet
@@ -26,3 +24,5 @@ I have also setup a slack bot that would send notifications to my Slack channel 
 > Current Technologies: Python, Scrapy, Slack (for notification), Cronjob
 
 > Future Technologies: PostgreSQL (potential data storage), Jenkins, Docker
+
+<a href="https://github.com/NikhilSawal/investment_portfolio" target="_blank">Github link to project</a>
