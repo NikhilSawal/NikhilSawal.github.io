@@ -6,7 +6,7 @@ author_profile: true
 header:
 ---
 
-Hi my name is Nikhil and I'm a data scientist. I have majored in Industrial Engineering, Statistic from Arizona State University, Tempe, AZ. While <a href="https://github.com/NikhilSawal/investment_portfolio" target="_blank">Hello, world!</a>
+Hi my name is Nikhil and I'm a data scientist. I worked as a Data Scientist at <a href="https://www.raise.com/" target="_blank">Raise Marketplace</a> , which is an online gift cards selling company, but ever since my job was impacted because of COVID, I decided to take this opportunity to acquire new skills and work on a <a href="https://github.com/NikhilSawal/investment_portfolio" target="_blank">research problem</a>, that I have been thinking of taking for quite some time.
 
 # My Story
 

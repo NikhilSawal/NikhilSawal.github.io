@@ -8,7 +8,7 @@ excerpt: "End-to-end project for real-time stock price predictions."
 
 This is an end-to-end data science project, which is my attempt to learn different technologies and concepts involved in productionizing an ML concept. It tries to cover the following 4 aspect of a Data science project:
 
-1. Web scraping data from internet
+1. Scraping data from internet
 2. Data storage
 3. Model building & evaluation
 4. Continuous Integration (CI)
