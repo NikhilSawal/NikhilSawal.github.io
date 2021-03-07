@@ -43,16 +43,16 @@ The product and operations team at Airbnb wants a detailed analysis of their gue
 
     On an overall level, there is a massive drop in the number of accepted requests once we get past the reply phase. Providing sample suggestions to both guest and host could improve the chances of booking.
 
-![img_1](plots/airbnb/conversion_over_time.png)
+![img_1](images/conversion_over_time.png)
 
 The following distributions plots provide further evidence to come up with measures to improve engagement.
 1. To make a good first impression, the opening message should have no more than ~180 characters.
 
 2. Also all the successful bookings have shown little over 10 interactions.
 
-![img_1](plots/airbnb/first_inter_length_dist.png)
+![img_1](images/first_inter_length_dist.png)
 
-![img_1](plots/airbnb/count_interaction_dist.png)
+![img_1](images/count_interaction_dist.png)
 
 2. **"Contact_me" performs poorly**
 
@@ -61,13 +61,13 @@ The following distributions plots provide further evidence to come up with measu
     >*Note: The abandonment rate is a percentage of the total number of interactions started.*
 
 
-![img_2](plots/airbnb/contact_channel_aban_conv_rate.png)
+![img_2](images/contact_channel_aban_conv_rate.png)
 
 
 Digging a bit deeper, the following plot shows the time spent in number of hours between different phases of the interaction for new vs. returning buyers. We clearly see that average time for "Contact_me" between the phases is well over a day for both types of buyers, which provides further evidence against the channel.
 
 
-![img_3](plots/airbnb/time_spent_contact_me.png)  
+![img_3](images/time_spent_contact_me.png)  
 
 ## 2. Buildzoom - [Code Link](https://github.com/NikhilSawal/data_science_case_studies/tree/master/buildzoom)
 
