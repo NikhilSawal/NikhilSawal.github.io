@@ -43,7 +43,7 @@ The product and operations team at Airbnb wants a detailed analysis of their gue
 
     On an overall level, there is a massive drop in the number of accepted requests once we get past the reply phase. Providing sample suggestions to both guest and host could improve the chances of booking.
 
-![Image 1.](/assets/images/conversion_over_time.png)
+![Image 1.]({{https://github.com/NikhilSawal/NikhilSawal.github.io}}/assets/images/conversion_over_time.png)
 
 The following distributions plots provide further evidence to come up with measures to improve engagement.
 1. To make a good first impression, the opening message should have no more than ~180 characters.
@@ -78,15 +78,15 @@ Digging a bit deeper, the following plot shows the time spent in number of hours
 Buildzoom gets data on building permits and wants to build a classifier that can correctly identify of the permit. The permit maybe of several types, but Buildzoom, wants a **binary classification** that can identify if a permit is ```(ELECTRICAL/NON-ELECTRICAL).```
 
 ### 2.2 Input Data
-| Data Column | Description |
-| ----------- | ----------- |
-| License Type | Types of license associated with the property (Electrical contractor license, Speciality contractor license) |
-| Business Name | Name of business |
-| Legal Description | Legal address/block information |
-| Description | describes work that need to be done eg: Install low voltage security system |
-| Type (y) | ELECTRICAL/NON-ELECTRICAL |
-| Subtype | Commercial/Single Family |
-| Job Value | Value associated with the job |
+Column name: Description
+
+**License Type:** Types of license associated with the property (Electrical contractor license, Speciality contractor license).  
+**Business Name:** Name of business.  
+**Legal Description:** Legal address/block information.  
+**Description:** describes work that need to be done eg: Install low voltage security system.  
+**Type (y):** ELECTRICAL/NON-ELECTRICAL.  
+**Subtype:** Commercial/Single Family.  
+**Job Value:** Value associated with the job.
 
 ### 2.3 Technologies
 > Python libraries: Pandas, NumPy, Scikit-learn, NLTK, XGBoost, Regex
