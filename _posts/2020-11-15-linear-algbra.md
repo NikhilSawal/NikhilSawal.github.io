@@ -1,7 +1,7 @@
 ---
 title: "Linear Algebra"
 date: 2020-11-15
-tags: [linear algebra, matrix operations, python, OOP]
+tags: [Linear algebra, Matrix operations, Python, OOP, Programming]
 header:
 excerpt: "Coding practice - Gilbert Strang (MIT OpenCourseWare)"
 ---
